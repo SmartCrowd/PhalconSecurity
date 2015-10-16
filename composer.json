@@ -1,15 +1,13 @@
 {
   "name": "smartcrowd/phalconsecurity",
-  "description": "ExternalResource usage",
+  "description": "Phalcon Security component",
   "keywords": [
-    "extResource"
+    "phalcon","security"
   ],
   "homepage": "https://github.com/SmartCrowd/PhalconSecurity",
   "license": "MIT",
   "autoload": {
-    "psr-0": {
-      "": "."
-    }
+    "psr-4": { "SmartCrowd\\Phalcon\\": "" }
   },
   "require": {
     "php": ">=5.6.0",
