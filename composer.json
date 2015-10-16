@@ -1,8 +1,9 @@
 {
-  "name": "smartcrowd/phalconsecurity",
+  "name": "smart-crowd/phalcon-security",
   "description": "Phalcon Security component",
   "keywords": [
-    "phalcon","security"
+    "phalcon",
+    "security"
   ],
   "homepage": "https://github.com/SmartCrowd/PhalconSecurity",
   "license": "MIT",
