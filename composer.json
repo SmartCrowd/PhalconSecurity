@@ -1,6 +1,6 @@
 {
   "name": "smart-crowd/phalcon-security",
-  "description": "Phalcon Security component",
+  "description": "Надстройка над Security компонентом фрэймворка Phalcon, позволяющая автоматически генерировать список ACL ресурсов",
   "keywords": [
     "phalcon",
     "security"
